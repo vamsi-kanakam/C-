@@ -1,2 +1,2 @@
-# C-
-This repo contains C# files in the order i learnt.
+# C#
+This repo contains C# files in the order I learned.
