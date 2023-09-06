@@ -1,0 +1,11 @@
+D:\ACADS\SEM-1\C#\Programs\Ch_IntroProgramming\Ch_IntroProgramming\bin\Debug\Ch_IntroProgramming.exe.config
+D:\ACADS\SEM-1\C#\Programs\Ch_IntroProgramming\Ch_IntroProgramming\bin\Debug\Ch_IntroProgramming.exe
+D:\ACADS\SEM-1\C#\Programs\Ch_IntroProgramming\Ch_IntroProgramming\bin\Debug\Ch_IntroProgramming.pdb
+D:\ACADS\SEM-1\C#\Programs\Ch_IntroProgramming\Ch_IntroProgramming\obj\Debug\Ch_IntroProgramming.csproj.AssemblyReference.cache
+D:\ACADS\SEM-1\C#\Programs\Ch_IntroProgramming\Ch_IntroProgramming\obj\Debug\Ch_IntroProgramming.Properties.Resources.resources
+D:\ACADS\SEM-1\C#\Programs\Ch_IntroProgramming\Ch_IntroProgramming\obj\Debug\Ch_IntroProgramming.csproj.GenerateResource.cache
+D:\ACADS\SEM-1\C#\Programs\Ch_IntroProgramming\Ch_IntroProgramming\obj\Debug\Ch_IntroProgramming.csproj.CoreCompileInputs.cache
+D:\ACADS\SEM-1\C#\Programs\Ch_IntroProgramming\Ch_IntroProgramming\obj\Debug\Ch_IntroProgramming.exe
+D:\ACADS\SEM-1\C#\Programs\Ch_IntroProgramming\Ch_IntroProgramming\obj\Debug\Ch_IntroProgramming.pdb
+D:\ACADS\SEM-1\C#\Programs\Ch_IntroProgramming\Ch_IntroProgramming\obj\Debug\Ch_IntroProgramming.IceCreamCost.resources
+D:\ACADS\SEM-1\C#\Programs\Ch_IntroProgramming\Ch_IntroProgramming\obj\Debug\Ch_IntroProgramming.IceCreamTotal.resources

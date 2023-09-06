@@ -1,0 +1,11 @@
+D:\ACADS\SEM-1\C#\Programs\Exercises_Ch1\Exercises_Ch1\bin\Debug\Exercises_Ch1.exe.config
+D:\ACADS\SEM-1\C#\Programs\Exercises_Ch1\Exercises_Ch1\bin\Debug\Exercises_Ch1.exe
+D:\ACADS\SEM-1\C#\Programs\Exercises_Ch1\Exercises_Ch1\bin\Debug\Exercises_Ch1.pdb
+D:\ACADS\SEM-1\C#\Programs\Exercises_Ch1\Exercises_Ch1\obj\Debug\Exercises_Ch1.csproj.AssemblyReference.cache
+D:\ACADS\SEM-1\C#\Programs\Exercises_Ch1\Exercises_Ch1\obj\Debug\Exercises_Ch1.totalCost.resources
+D:\ACADS\SEM-1\C#\Programs\Exercises_Ch1\Exercises_Ch1\obj\Debug\Exercises_Ch1.Properties.Resources.resources
+D:\ACADS\SEM-1\C#\Programs\Exercises_Ch1\Exercises_Ch1\obj\Debug\Exercises_Ch1.csproj.GenerateResource.cache
+D:\ACADS\SEM-1\C#\Programs\Exercises_Ch1\Exercises_Ch1\obj\Debug\Exercises_Ch1.csproj.CoreCompileInputs.cache
+D:\ACADS\SEM-1\C#\Programs\Exercises_Ch1\Exercises_Ch1\obj\Debug\Exercises_Ch1.exe
+D:\ACADS\SEM-1\C#\Programs\Exercises_Ch1\Exercises_Ch1\obj\Debug\Exercises_Ch1.pdb
+D:\ACADS\SEM-1\C#\Programs\Exercises_Ch1\Exercises_Ch1\obj\Debug\Exercises_Ch1.totalCost2.resources
