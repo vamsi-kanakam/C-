@@ -1,0 +1,12 @@
+D:\ACADS\SEM-1\C#\Programs\Ch2_DataTypes\Ch2_DataTypes\bin\Debug\Ch2_DataTypes.exe.config
+D:\ACADS\SEM-1\C#\Programs\Ch2_DataTypes\Ch2_DataTypes\bin\Debug\Ch2_DataTypes.exe
+D:\ACADS\SEM-1\C#\Programs\Ch2_DataTypes\Ch2_DataTypes\bin\Debug\Ch2_DataTypes.pdb
+D:\ACADS\SEM-1\C#\Programs\Ch2_DataTypes\Ch2_DataTypes\obj\Debug\Ch2_DataTypes.csproj.AssemblyReference.cache
+D:\ACADS\SEM-1\C#\Programs\Ch2_DataTypes\Ch2_DataTypes\obj\Debug\Ch2_DataTypes.IceCreamTotalDataTypes.resources
+D:\ACADS\SEM-1\C#\Programs\Ch2_DataTypes\Ch2_DataTypes\obj\Debug\Ch2_DataTypes.Properties.Resources.resources
+D:\ACADS\SEM-1\C#\Programs\Ch2_DataTypes\Ch2_DataTypes\obj\Debug\Ch2_DataTypes.csproj.GenerateResource.cache
+D:\ACADS\SEM-1\C#\Programs\Ch2_DataTypes\Ch2_DataTypes\obj\Debug\Ch2_DataTypes.csproj.CoreCompileInputs.cache
+D:\ACADS\SEM-1\C#\Programs\Ch2_DataTypes\Ch2_DataTypes\obj\Debug\Ch2_DataTypes.exe
+D:\ACADS\SEM-1\C#\Programs\Ch2_DataTypes\Ch2_DataTypes\obj\Debug\Ch2_DataTypes.pdb
+D:\ACADS\SEM-1\C#\Programs\Ch2_DataTypes\Ch2_DataTypes\obj\Debug\Ch2_DataTypes.UserNameString.resources
+D:\ACADS\SEM-1\C#\Programs\Ch2_DataTypes\Ch2_DataTypes\obj\Debug\Ch2_DataTypes.GraduationDate.resources

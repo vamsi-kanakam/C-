@@ -1,0 +1,11 @@
+D:\ACADS\SEM-1\C#\Programs\Exercises_Ch2\Exercises_Ch2\bin\Debug\Exercises_Ch2.exe.config
+D:\ACADS\SEM-1\C#\Programs\Exercises_Ch2\Exercises_Ch2\bin\Debug\Exercises_Ch2.exe
+D:\ACADS\SEM-1\C#\Programs\Exercises_Ch2\Exercises_Ch2\bin\Debug\Exercises_Ch2.pdb
+D:\ACADS\SEM-1\C#\Programs\Exercises_Ch2\Exercises_Ch2\obj\Debug\Exercises_Ch2.csproj.AssemblyReference.cache
+D:\ACADS\SEM-1\C#\Programs\Exercises_Ch2\Exercises_Ch2\obj\Debug\Exercises_Ch2.costOfOilChange.resources
+D:\ACADS\SEM-1\C#\Programs\Exercises_Ch2\Exercises_Ch2\obj\Debug\Exercises_Ch2.Properties.Resources.resources
+D:\ACADS\SEM-1\C#\Programs\Exercises_Ch2\Exercises_Ch2\obj\Debug\Exercises_Ch2.csproj.GenerateResource.cache
+D:\ACADS\SEM-1\C#\Programs\Exercises_Ch2\Exercises_Ch2\obj\Debug\Exercises_Ch2.csproj.CoreCompileInputs.cache
+D:\ACADS\SEM-1\C#\Programs\Exercises_Ch2\Exercises_Ch2\obj\Debug\Exercises_Ch2.exe
+D:\ACADS\SEM-1\C#\Programs\Exercises_Ch2\Exercises_Ch2\obj\Debug\Exercises_Ch2.pdb
+D:\ACADS\SEM-1\C#\Programs\Exercises_Ch2\Exercises_Ch2\obj\Debug\Exercises_Ch2.AutoRentalCharge.resources
