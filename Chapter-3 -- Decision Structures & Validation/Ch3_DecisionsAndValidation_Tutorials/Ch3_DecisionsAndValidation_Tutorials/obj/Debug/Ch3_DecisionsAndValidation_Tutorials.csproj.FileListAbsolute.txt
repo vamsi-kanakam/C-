@@ -1,0 +1,10 @@
+D:\ACADS\SEM-1\C#\Programs\Ch3_DecisionsAndValidation_Tutorials\Ch3_DecisionsAndValidation_Tutorials\bin\Debug\Ch3_DecisionsAndValidation_Tutorials.exe.config
+D:\ACADS\SEM-1\C#\Programs\Ch3_DecisionsAndValidation_Tutorials\Ch3_DecisionsAndValidation_Tutorials\bin\Debug\Ch3_DecisionsAndValidation_Tutorials.exe
+D:\ACADS\SEM-1\C#\Programs\Ch3_DecisionsAndValidation_Tutorials\Ch3_DecisionsAndValidation_Tutorials\bin\Debug\Ch3_DecisionsAndValidation_Tutorials.pdb
+D:\ACADS\SEM-1\C#\Programs\Ch3_DecisionsAndValidation_Tutorials\Ch3_DecisionsAndValidation_Tutorials\obj\Debug\Ch3_DecisionsAndValidation_Tutorials.csproj.AssemblyReference.cache
+D:\ACADS\SEM-1\C#\Programs\Ch3_DecisionsAndValidation_Tutorials\Ch3_DecisionsAndValidation_Tutorials\obj\Debug\Ch3_DecisionsAndValidation_Tutorials.ComputeGrade.resources
+D:\ACADS\SEM-1\C#\Programs\Ch3_DecisionsAndValidation_Tutorials\Ch3_DecisionsAndValidation_Tutorials\obj\Debug\Ch3_DecisionsAndValidation_Tutorials.Properties.Resources.resources
+D:\ACADS\SEM-1\C#\Programs\Ch3_DecisionsAndValidation_Tutorials\Ch3_DecisionsAndValidation_Tutorials\obj\Debug\Ch3_DecisionsAndValidation_Tutorials.csproj.GenerateResource.cache
+D:\ACADS\SEM-1\C#\Programs\Ch3_DecisionsAndValidation_Tutorials\Ch3_DecisionsAndValidation_Tutorials\obj\Debug\Ch3_DecisionsAndValidation_Tutorials.csproj.CoreCompileInputs.cache
+D:\ACADS\SEM-1\C#\Programs\Ch3_DecisionsAndValidation_Tutorials\Ch3_DecisionsAndValidation_Tutorials\obj\Debug\Ch3_DecisionsAndValidation_Tutorials.exe
+D:\ACADS\SEM-1\C#\Programs\Ch3_DecisionsAndValidation_Tutorials\Ch3_DecisionsAndValidation_Tutorials\obj\Debug\Ch3_DecisionsAndValidation_Tutorials.pdb
