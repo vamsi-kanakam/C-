@@ -1,0 +1,10 @@
+D:\ACADS\SEM-1\C#\Programs\Ch3_HelpDeskAssignment\Ch3_HelpDeskAssignment\bin\Debug\Ch3_HelpDeskAssignment.exe.config
+D:\ACADS\SEM-1\C#\Programs\Ch3_HelpDeskAssignment\Ch3_HelpDeskAssignment\bin\Debug\Ch3_HelpDeskAssignment.exe
+D:\ACADS\SEM-1\C#\Programs\Ch3_HelpDeskAssignment\Ch3_HelpDeskAssignment\bin\Debug\Ch3_HelpDeskAssignment.pdb
+D:\ACADS\SEM-1\C#\Programs\Ch3_HelpDeskAssignment\Ch3_HelpDeskAssignment\obj\Debug\Ch3_HelpDeskAssignment.csproj.AssemblyReference.cache
+D:\ACADS\SEM-1\C#\Programs\Ch3_HelpDeskAssignment\Ch3_HelpDeskAssignment\obj\Debug\Ch3_HelpDeskAssignment.ITHelpDesk.resources
+D:\ACADS\SEM-1\C#\Programs\Ch3_HelpDeskAssignment\Ch3_HelpDeskAssignment\obj\Debug\Ch3_HelpDeskAssignment.Properties.Resources.resources
+D:\ACADS\SEM-1\C#\Programs\Ch3_HelpDeskAssignment\Ch3_HelpDeskAssignment\obj\Debug\Ch3_HelpDeskAssignment.csproj.GenerateResource.cache
+D:\ACADS\SEM-1\C#\Programs\Ch3_HelpDeskAssignment\Ch3_HelpDeskAssignment\obj\Debug\Ch3_HelpDeskAssignment.csproj.CoreCompileInputs.cache
+D:\ACADS\SEM-1\C#\Programs\Ch3_HelpDeskAssignment\Ch3_HelpDeskAssignment\obj\Debug\Ch3_HelpDeskAssignment.exe
+D:\ACADS\SEM-1\C#\Programs\Ch3_HelpDeskAssignment\Ch3_HelpDeskAssignment\obj\Debug\Ch3_HelpDeskAssignment.pdb
