@@ -1,0 +1,11 @@
+D:\ACADS\SEM-1\C#\Programs\Exercise_Ch4\Exercise_Ch4\bin\Debug\Exercise_Ch4.exe.config
+D:\ACADS\SEM-1\C#\Programs\Exercise_Ch4\Exercise_Ch4\bin\Debug\Exercise_Ch4.exe
+D:\ACADS\SEM-1\C#\Programs\Exercise_Ch4\Exercise_Ch4\bin\Debug\Exercise_Ch4.pdb
+D:\ACADS\SEM-1\C#\Programs\Exercise_Ch4\Exercise_Ch4\obj\Debug\Exercise_Ch4.csproj.AssemblyReference.cache
+D:\ACADS\SEM-1\C#\Programs\Exercise_Ch4\Exercise_Ch4\obj\Debug\Exercise_Ch4.LastStopBoutique.resources
+D:\ACADS\SEM-1\C#\Programs\Exercise_Ch4\Exercise_Ch4\obj\Debug\Exercise_Ch4.Properties.Resources.resources
+D:\ACADS\SEM-1\C#\Programs\Exercise_Ch4\Exercise_Ch4\obj\Debug\Exercise_Ch4.csproj.GenerateResource.cache
+D:\ACADS\SEM-1\C#\Programs\Exercise_Ch4\Exercise_Ch4\obj\Debug\Exercise_Ch4.csproj.CoreCompileInputs.cache
+D:\ACADS\SEM-1\C#\Programs\Exercise_Ch4\Exercise_Ch4\obj\Debug\Exercise_Ch4.exe
+D:\ACADS\SEM-1\C#\Programs\Exercise_Ch4\Exercise_Ch4\obj\Debug\Exercise_Ch4.pdb
+D:\ACADS\SEM-1\C#\Programs\Exercise_Ch4\Exercise_Ch4\obj\Debug\Exercise_Ch4.Palindrome.resources
