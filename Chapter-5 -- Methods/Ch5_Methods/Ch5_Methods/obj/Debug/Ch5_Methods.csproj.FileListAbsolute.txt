@@ -1,0 +1,12 @@
+D:\ACADS\SEM-1\C#\Programs\Ch5_Methods\Ch5_Methods\bin\Debug\Ch5_Methods.exe.config
+D:\ACADS\SEM-1\C#\Programs\Ch5_Methods\Ch5_Methods\bin\Debug\Ch5_Methods.exe
+D:\ACADS\SEM-1\C#\Programs\Ch5_Methods\Ch5_Methods\bin\Debug\Ch5_Methods.pdb
+D:\ACADS\SEM-1\C#\Programs\Ch5_Methods\Ch5_Methods\obj\Debug\Ch5_Methods.csproj.AssemblyReference.cache
+D:\ACADS\SEM-1\C#\Programs\Ch5_Methods\Ch5_Methods\obj\Debug\Ch5_Methods.MethodDemo.resources
+D:\ACADS\SEM-1\C#\Programs\Ch5_Methods\Ch5_Methods\obj\Debug\Ch5_Methods.Properties.Resources.resources
+D:\ACADS\SEM-1\C#\Programs\Ch5_Methods\Ch5_Methods\obj\Debug\Ch5_Methods.csproj.GenerateResource.cache
+D:\ACADS\SEM-1\C#\Programs\Ch5_Methods\Ch5_Methods\obj\Debug\Ch5_Methods.csproj.CoreCompileInputs.cache
+D:\ACADS\SEM-1\C#\Programs\Ch5_Methods\Ch5_Methods\obj\Debug\Ch5_Methods.exe
+D:\ACADS\SEM-1\C#\Programs\Ch5_Methods\Ch5_Methods\obj\Debug\Ch5_Methods.pdb
+D:\ACADS\SEM-1\C#\Programs\Ch5_Methods\Ch5_Methods\obj\Debug\Ch5_Methods.HeartRateTopDownAlt.resources
+D:\ACADS\SEM-1\C#\Programs\Ch5_Methods\Ch5_Methods\obj\Debug\Ch5_Methods.DiscountTypeEnum.resources
