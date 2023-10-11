@@ -1,0 +1,10 @@
+D:\ACADS\SEM-1\C#\Programs\JagSales\JagSales\bin\Debug\JagSales.exe.config
+D:\ACADS\SEM-1\C#\Programs\JagSales\JagSales\bin\Debug\JagSales.exe
+D:\ACADS\SEM-1\C#\Programs\JagSales\JagSales\bin\Debug\JagSales.pdb
+D:\ACADS\SEM-1\C#\Programs\JagSales\JagSales\obj\Debug\JagSales.csproj.AssemblyReference.cache
+D:\ACADS\SEM-1\C#\Programs\JagSales\JagSales\obj\Debug\JagSales.JagSales.resources
+D:\ACADS\SEM-1\C#\Programs\JagSales\JagSales\obj\Debug\JagSales.Properties.Resources.resources
+D:\ACADS\SEM-1\C#\Programs\JagSales\JagSales\obj\Debug\JagSales.csproj.GenerateResource.cache
+D:\ACADS\SEM-1\C#\Programs\JagSales\JagSales\obj\Debug\JagSales.csproj.CoreCompileInputs.cache
+D:\ACADS\SEM-1\C#\Programs\JagSales\JagSales\obj\Debug\JagSales.exe
+D:\ACADS\SEM-1\C#\Programs\JagSales\JagSales\obj\Debug\JagSales.pdb
