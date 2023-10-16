@@ -1,0 +1,11 @@
+D:\ACADS\SEM-1\C#\Programs\Ch6_GUIcontrols\Ch6_GUIcontrols\bin\Debug\Ch6_GUIcontrols.exe.config
+D:\ACADS\SEM-1\C#\Programs\Ch6_GUIcontrols\Ch6_GUIcontrols\bin\Debug\Ch6_GUIcontrols.exe
+D:\ACADS\SEM-1\C#\Programs\Ch6_GUIcontrols\Ch6_GUIcontrols\bin\Debug\Ch6_GUIcontrols.pdb
+D:\ACADS\SEM-1\C#\Programs\Ch6_GUIcontrols\Ch6_GUIcontrols\obj\Debug\Ch6_GUIcontrols.csproj.AssemblyReference.cache
+D:\ACADS\SEM-1\C#\Programs\Ch6_GUIcontrols\Ch6_GUIcontrols\obj\Debug\Ch6_GUIcontrols.Properties.Resources.resources
+D:\ACADS\SEM-1\C#\Programs\Ch6_GUIcontrols\Ch6_GUIcontrols\obj\Debug\Ch6_GUIcontrols.TheaterTickets.resources
+D:\ACADS\SEM-1\C#\Programs\Ch6_GUIcontrols\Ch6_GUIcontrols\obj\Debug\Ch6_GUIcontrols.csproj.GenerateResource.cache
+D:\ACADS\SEM-1\C#\Programs\Ch6_GUIcontrols\Ch6_GUIcontrols\obj\Debug\Ch6_GUIcontrols.csproj.CoreCompileInputs.cache
+D:\ACADS\SEM-1\C#\Programs\Ch6_GUIcontrols\Ch6_GUIcontrols\obj\Debug\Ch6_GUIcontrols.exe
+D:\ACADS\SEM-1\C#\Programs\Ch6_GUIcontrols\Ch6_GUIcontrols\obj\Debug\Ch6_GUIcontrols.pdb
+D:\ACADS\SEM-1\C#\Programs\Ch6_GUIcontrols\Ch6_GUIcontrols\obj\Debug\Ch6_GUIcontrols.PizzaOrder.resources
