@@ -1,0 +1,10 @@
+D:\ACADS\SEM-1\C#\Programs\Week8HomeWork\Week8HomeWork\bin\Debug\Week8HomeWork.exe.config
+D:\ACADS\SEM-1\C#\Programs\Week8HomeWork\Week8HomeWork\bin\Debug\Week8HomeWork.exe
+D:\ACADS\SEM-1\C#\Programs\Week8HomeWork\Week8HomeWork\bin\Debug\Week8HomeWork.pdb
+D:\ACADS\SEM-1\C#\Programs\Week8HomeWork\Week8HomeWork\obj\Debug\Week8HomeWork.csproj.AssemblyReference.cache
+D:\ACADS\SEM-1\C#\Programs\Week8HomeWork\Week8HomeWork\obj\Debug\Week8HomeWork.frmIceCreamSundae.resources
+D:\ACADS\SEM-1\C#\Programs\Week8HomeWork\Week8HomeWork\obj\Debug\Week8HomeWork.Properties.Resources.resources
+D:\ACADS\SEM-1\C#\Programs\Week8HomeWork\Week8HomeWork\obj\Debug\Week8HomeWork.csproj.GenerateResource.cache
+D:\ACADS\SEM-1\C#\Programs\Week8HomeWork\Week8HomeWork\obj\Debug\Week8HomeWork.csproj.CoreCompileInputs.cache
+D:\ACADS\SEM-1\C#\Programs\Week8HomeWork\Week8HomeWork\obj\Debug\Week8HomeWork.exe
+D:\ACADS\SEM-1\C#\Programs\Week8HomeWork\Week8HomeWork\obj\Debug\Week8HomeWork.pdb
