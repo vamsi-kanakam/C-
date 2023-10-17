@@ -1,0 +1,11 @@
+D:\ACADS\SEM-1\C#\Programs\Ch7_Arrays\Ch7_Arrays\bin\Debug\Ch7_Arrays.exe.config
+D:\ACADS\SEM-1\C#\Programs\Ch7_Arrays\Ch7_Arrays\bin\Debug\Ch7_Arrays.exe
+D:\ACADS\SEM-1\C#\Programs\Ch7_Arrays\Ch7_Arrays\bin\Debug\Ch7_Arrays.pdb
+D:\ACADS\SEM-1\C#\Programs\Ch7_Arrays\Ch7_Arrays\obj\Debug\Ch7_Arrays.csproj.AssemblyReference.cache
+D:\ACADS\SEM-1\C#\Programs\Ch7_Arrays\Ch7_Arrays\obj\Debug\Ch7_Arrays.Form1.resources
+D:\ACADS\SEM-1\C#\Programs\Ch7_Arrays\Ch7_Arrays\obj\Debug\Ch7_Arrays.Properties.Resources.resources
+D:\ACADS\SEM-1\C#\Programs\Ch7_Arrays\Ch7_Arrays\obj\Debug\Ch7_Arrays.csproj.GenerateResource.cache
+D:\ACADS\SEM-1\C#\Programs\Ch7_Arrays\Ch7_Arrays\obj\Debug\Ch7_Arrays.csproj.CoreCompileInputs.cache
+D:\ACADS\SEM-1\C#\Programs\Ch7_Arrays\Ch7_Arrays\obj\Debug\Ch7_Arrays.exe
+D:\ACADS\SEM-1\C#\Programs\Ch7_Arrays\Ch7_Arrays\obj\Debug\Ch7_Arrays.pdb
+D:\ACADS\SEM-1\C#\Programs\Ch7_Arrays\Ch7_Arrays\obj\Debug\Ch7_Arrays.LookUpUsingArrays.resources
