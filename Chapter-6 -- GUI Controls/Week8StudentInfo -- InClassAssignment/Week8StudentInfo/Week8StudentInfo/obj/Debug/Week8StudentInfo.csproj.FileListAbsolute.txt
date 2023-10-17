@@ -1,0 +1,21 @@
+C:\Users\Debra Chapman\source\repos\Week8StudentInfo\Week8StudentInfo\bin\Debug\Week8StudentInfo.exe.config
+C:\Users\Debra Chapman\source\repos\Week8StudentInfo\Week8StudentInfo\bin\Debug\Week8StudentInfo.exe
+C:\Users\Debra Chapman\source\repos\Week8StudentInfo\Week8StudentInfo\bin\Debug\Week8StudentInfo.pdb
+C:\Users\Debra Chapman\source\repos\Week8StudentInfo\Week8StudentInfo\obj\Debug\Week8StudentInfo.csproj.AssemblyReference.cache
+C:\Users\Debra Chapman\source\repos\Week8StudentInfo\Week8StudentInfo\obj\Debug\Week8StudentInfo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Debra Chapman\source\repos\Week8StudentInfo\Week8StudentInfo\obj\Debug\Week8StudentInfo.frmStudents.resources
+C:\Users\Debra Chapman\source\repos\Week8StudentInfo\Week8StudentInfo\obj\Debug\Week8StudentInfo.Properties.Resources.resources
+C:\Users\Debra Chapman\source\repos\Week8StudentInfo\Week8StudentInfo\obj\Debug\Week8StudentInfo.csproj.GenerateResource.cache
+C:\Users\Debra Chapman\source\repos\Week8StudentInfo\Week8StudentInfo\obj\Debug\Week8StudentInfo.csproj.CoreCompileInputs.cache
+C:\Users\Debra Chapman\source\repos\Week8StudentInfo\Week8StudentInfo\obj\Debug\Week8StudentInfo.exe
+C:\Users\Debra Chapman\source\repos\Week8StudentInfo\Week8StudentInfo\obj\Debug\Week8StudentInfo.pdb
+D:\ACADS\SEM-1\C#\Programs\Week8StudentInfo\Week8StudentInfo - Starter Files\Week8StudentInfo\bin\Debug\Week8StudentInfo.exe.config
+D:\ACADS\SEM-1\C#\Programs\Week8StudentInfo\Week8StudentInfo - Starter Files\Week8StudentInfo\bin\Debug\Week8StudentInfo.exe
+D:\ACADS\SEM-1\C#\Programs\Week8StudentInfo\Week8StudentInfo - Starter Files\Week8StudentInfo\bin\Debug\Week8StudentInfo.pdb
+D:\ACADS\SEM-1\C#\Programs\Week8StudentInfo\Week8StudentInfo - Starter Files\Week8StudentInfo\obj\Debug\Week8StudentInfo.csproj.AssemblyReference.cache
+D:\ACADS\SEM-1\C#\Programs\Week8StudentInfo\Week8StudentInfo - Starter Files\Week8StudentInfo\obj\Debug\Week8StudentInfo.frmStudents.resources
+D:\ACADS\SEM-1\C#\Programs\Week8StudentInfo\Week8StudentInfo - Starter Files\Week8StudentInfo\obj\Debug\Week8StudentInfo.Properties.Resources.resources
+D:\ACADS\SEM-1\C#\Programs\Week8StudentInfo\Week8StudentInfo - Starter Files\Week8StudentInfo\obj\Debug\Week8StudentInfo.csproj.GenerateResource.cache
+D:\ACADS\SEM-1\C#\Programs\Week8StudentInfo\Week8StudentInfo - Starter Files\Week8StudentInfo\obj\Debug\Week8StudentInfo.csproj.CoreCompileInputs.cache
+D:\ACADS\SEM-1\C#\Programs\Week8StudentInfo\Week8StudentInfo - Starter Files\Week8StudentInfo\obj\Debug\Week8StudentInfo.exe
+D:\ACADS\SEM-1\C#\Programs\Week8StudentInfo\Week8StudentInfo - Starter Files\Week8StudentInfo\obj\Debug\Week8StudentInfo.pdb
