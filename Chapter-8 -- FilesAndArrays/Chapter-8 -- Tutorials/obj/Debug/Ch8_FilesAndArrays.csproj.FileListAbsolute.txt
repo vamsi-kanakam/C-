@@ -1,0 +1,17 @@
+D:\ACADS\SEM-1\C#\Assignments\Philip-2e-TutorialStarts 2021-02-08\Tutorial_Starts\Ch8_FilesAndArrays\bin\Debug\Ch8_FilesAndArrays.exe.config
+D:\ACADS\SEM-1\C#\Assignments\Philip-2e-TutorialStarts 2021-02-08\Tutorial_Starts\Ch8_FilesAndArrays\bin\Debug\Ch8_FilesAndArrays.exe
+D:\ACADS\SEM-1\C#\Assignments\Philip-2e-TutorialStarts 2021-02-08\Tutorial_Starts\Ch8_FilesAndArrays\bin\Debug\Ch8_FilesAndArrays.pdb
+D:\ACADS\SEM-1\C#\Assignments\Philip-2e-TutorialStarts 2021-02-08\Tutorial_Starts\Ch8_FilesAndArrays\obj\Debug\Ch8_FilesAndArrays.csproj.AssemblyReference.cache
+D:\ACADS\SEM-1\C#\Assignments\Philip-2e-TutorialStarts 2021-02-08\Tutorial_Starts\Ch8_FilesAndArrays\obj\Debug\Ch8_FilesAndArrays.PassingArrays.resources
+D:\ACADS\SEM-1\C#\Assignments\Philip-2e-TutorialStarts 2021-02-08\Tutorial_Starts\Ch8_FilesAndArrays\obj\Debug\Ch8_FilesAndArrays.SmallFiles.resources
+D:\ACADS\SEM-1\C#\Assignments\Philip-2e-TutorialStarts 2021-02-08\Tutorial_Starts\Ch8_FilesAndArrays\obj\Debug\Ch8_FilesAndArrays.TwoDimArray.resources
+D:\ACADS\SEM-1\C#\Assignments\Philip-2e-TutorialStarts 2021-02-08\Tutorial_Starts\Ch8_FilesAndArrays\obj\Debug\Ch8_FilesAndArrays.LargeFiles.resources
+D:\ACADS\SEM-1\C#\Assignments\Philip-2e-TutorialStarts 2021-02-08\Tutorial_Starts\Ch8_FilesAndArrays\obj\Debug\Ch8_FilesAndArrays.Properties.Resources.resources
+D:\ACADS\SEM-1\C#\Assignments\Philip-2e-TutorialStarts 2021-02-08\Tutorial_Starts\Ch8_FilesAndArrays\obj\Debug\Ch8_FilesAndArrays.ReadBinaryFile.resources
+D:\ACADS\SEM-1\C#\Assignments\Philip-2e-TutorialStarts 2021-02-08\Tutorial_Starts\Ch8_FilesAndArrays\obj\Debug\Ch8_FilesAndArrays.ReadTextFile.resources
+D:\ACADS\SEM-1\C#\Assignments\Philip-2e-TutorialStarts 2021-02-08\Tutorial_Starts\Ch8_FilesAndArrays\obj\Debug\Ch8_FilesAndArrays.WriteToBinaryFile.resources
+D:\ACADS\SEM-1\C#\Assignments\Philip-2e-TutorialStarts 2021-02-08\Tutorial_Starts\Ch8_FilesAndArrays\obj\Debug\Ch8_FilesAndArrays.WriteToTextFile.resources
+D:\ACADS\SEM-1\C#\Assignments\Philip-2e-TutorialStarts 2021-02-08\Tutorial_Starts\Ch8_FilesAndArrays\obj\Debug\Ch8_FilesAndArrays.csproj.GenerateResource.cache
+D:\ACADS\SEM-1\C#\Assignments\Philip-2e-TutorialStarts 2021-02-08\Tutorial_Starts\Ch8_FilesAndArrays\obj\Debug\Ch8_FilesAndArrays.csproj.CoreCompileInputs.cache
+D:\ACADS\SEM-1\C#\Assignments\Philip-2e-TutorialStarts 2021-02-08\Tutorial_Starts\Ch8_FilesAndArrays\obj\Debug\Ch8_FilesAndArrays.exe
+D:\ACADS\SEM-1\C#\Assignments\Philip-2e-TutorialStarts 2021-02-08\Tutorial_Starts\Ch8_FilesAndArrays\obj\Debug\Ch8_FilesAndArrays.pdb
