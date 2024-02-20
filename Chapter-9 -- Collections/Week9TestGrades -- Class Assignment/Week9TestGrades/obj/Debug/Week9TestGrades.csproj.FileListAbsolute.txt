@@ -1,0 +1,10 @@
+D:\ACADS\SEM-1\C#\Programs\Week9TestGrades\Week9TestGrades\bin\Debug\Week9TestGrades.exe.config
+D:\ACADS\SEM-1\C#\Programs\Week9TestGrades\Week9TestGrades\bin\Debug\Week9TestGrades.exe
+D:\ACADS\SEM-1\C#\Programs\Week9TestGrades\Week9TestGrades\bin\Debug\Week9TestGrades.pdb
+D:\ACADS\SEM-1\C#\Programs\Week9TestGrades\Week9TestGrades\obj\Debug\Week9TestGrades.csproj.AssemblyReference.cache
+D:\ACADS\SEM-1\C#\Programs\Week9TestGrades\Week9TestGrades\obj\Debug\Week9TestGrades.FrmTests.resources
+D:\ACADS\SEM-1\C#\Programs\Week9TestGrades\Week9TestGrades\obj\Debug\Week9TestGrades.Properties.Resources.resources
+D:\ACADS\SEM-1\C#\Programs\Week9TestGrades\Week9TestGrades\obj\Debug\Week9TestGrades.csproj.GenerateResource.cache
+D:\ACADS\SEM-1\C#\Programs\Week9TestGrades\Week9TestGrades\obj\Debug\Week9TestGrades.csproj.CoreCompileInputs.cache
+D:\ACADS\SEM-1\C#\Programs\Week9TestGrades\Week9TestGrades\obj\Debug\Week9TestGrades.exe
+D:\ACADS\SEM-1\C#\Programs\Week9TestGrades\Week9TestGrades\obj\Debug\Week9TestGrades.pdb

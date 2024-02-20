@@ -1,0 +1,17 @@
+Bob;25;Business;75000
+Sally;30;Computing;125000
+Susan;30;Arts & Sciences;80000
+Bob;30;Medicine;200000
+Susan;25;Medicine;225000
+Morgan;35;Business;80000
+Mark;35;Computing;90000
+Delores;40;Computing;75000
+Mya;40;Arts & Sciences;95000
+David;42; Business;80000
+David;40;Business;95000
+Jeff;36;Medicine;90000
+Amy;28;Medicine;140000
+Dana;50;Computing;200000
+Debra;40;Computing;125000
+Beth;33;Arts & Sciences;89000
+Vamsi;22;Computing;125000Rahul;25;Medicine;43643

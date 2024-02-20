@@ -1,0 +1,15 @@
+Dave;True;False;True;True;True;False;False;False;False;True;False;False;True;True;True;False;True;True;False;True
+Susan;True;True;True;False;False;False;True;False;True;True;False;False;True;True;False;True;True;True;True;True
+Mark;False;False;True;False;False;True;False;True;True;False;True;False;False;False;True;False;False;True;False;False
+Jeff;False;True;True;True;False;True;False;True;True;False;False;False;True;False;False;True;True;False;True;False
+Sally;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True
+Beth;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False
+Mariade;True;False;True;False;False;False;False;True;True;True;False;False;True;False;True;False;True;False;True;True
+Gabrielle;True;False;True;False;False;True;False;True;True;True;True;False;False;False;False;True;True;True;True;True
+Dana;False;True;True;False;False;False;False;False;True;False;True;False;False;False;False;False;False;True;True;False
+Hassain;False;False;True;True;False;True;False;False;False;False;True;True;True;True;False;True;True;True;True;True
+Billy;False;False;True;False;False;False;True;False;False;True;True;False;True;False;True;False;False;False;True;True
+Bob;True;False;True;False;True;True;False;True;True;False;True;False;True;True;True;False;False;True;False;True
+Dallas;True;False;False;True;False;False;False;False;False;True;True;True;True;False;False;False;False;True;False;True
+Andy;True;False;False;True;False;False;True;False;True;False;True;False;False;False;True;False;True;False;True;True
+Joanna;False;False;True;False;True;False;True;False;False;True;False;False;True;True;False;True;False;True;False;True

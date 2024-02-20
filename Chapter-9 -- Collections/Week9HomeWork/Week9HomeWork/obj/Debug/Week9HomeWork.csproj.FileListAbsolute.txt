@@ -1,0 +1,10 @@
+D:\ACADS\SEM-1\C#\Programs\Week9HomeWork\Week9HomeWork\bin\Debug\Week9HomeWork.exe.config
+D:\ACADS\SEM-1\C#\Programs\Week9HomeWork\Week9HomeWork\bin\Debug\Week9HomeWork.exe
+D:\ACADS\SEM-1\C#\Programs\Week9HomeWork\Week9HomeWork\bin\Debug\Week9HomeWork.pdb
+D:\ACADS\SEM-1\C#\Programs\Week9HomeWork\Week9HomeWork\obj\Debug\Week9HomeWork.csproj.AssemblyReference.cache
+D:\ACADS\SEM-1\C#\Programs\Week9HomeWork\Week9HomeWork\obj\Debug\Week9HomeWork.frmAverageSalary.resources
+D:\ACADS\SEM-1\C#\Programs\Week9HomeWork\Week9HomeWork\obj\Debug\Week9HomeWork.Properties.Resources.resources
+D:\ACADS\SEM-1\C#\Programs\Week9HomeWork\Week9HomeWork\obj\Debug\Week9HomeWork.csproj.GenerateResource.cache
+D:\ACADS\SEM-1\C#\Programs\Week9HomeWork\Week9HomeWork\obj\Debug\Week9HomeWork.csproj.CoreCompileInputs.cache
+D:\ACADS\SEM-1\C#\Programs\Week9HomeWork\Week9HomeWork\obj\Debug\Week9HomeWork.exe
+D:\ACADS\SEM-1\C#\Programs\Week9HomeWork\Week9HomeWork\obj\Debug\Week9HomeWork.pdb
