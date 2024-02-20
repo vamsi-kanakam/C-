@@ -1,0 +1,10 @@
+D:\ACADS\SEM-1\C#\Programs\Week11Sundaes\Week11Sundaes\bin\Debug\Week11Sundaes.exe.config
+D:\ACADS\SEM-1\C#\Programs\Week11Sundaes\Week11Sundaes\bin\Debug\Week11Sundaes.exe
+D:\ACADS\SEM-1\C#\Programs\Week11Sundaes\Week11Sundaes\bin\Debug\Week11Sundaes.pdb
+D:\ACADS\SEM-1\C#\Programs\Week11Sundaes\Week11Sundaes\obj\Debug\Week11Sundaes.csproj.AssemblyReference.cache
+D:\ACADS\SEM-1\C#\Programs\Week11Sundaes\Week11Sundaes\obj\Debug\Week11Sundaes.frmSundaes.resources
+D:\ACADS\SEM-1\C#\Programs\Week11Sundaes\Week11Sundaes\obj\Debug\Week11Sundaes.Properties.Resources.resources
+D:\ACADS\SEM-1\C#\Programs\Week11Sundaes\Week11Sundaes\obj\Debug\Week11Sundaes.csproj.GenerateResource.cache
+D:\ACADS\SEM-1\C#\Programs\Week11Sundaes\Week11Sundaes\obj\Debug\Week11Sundaes.csproj.CoreCompileInputs.cache
+D:\ACADS\SEM-1\C#\Programs\Week11Sundaes\Week11Sundaes\obj\Debug\Week11Sundaes.exe
+D:\ACADS\SEM-1\C#\Programs\Week11Sundaes\Week11Sundaes\obj\Debug\Week11Sundaes.pdb
