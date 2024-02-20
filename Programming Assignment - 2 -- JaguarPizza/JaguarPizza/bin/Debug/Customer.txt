@@ -1,0 +1,7 @@
+1,Michael Black,address,522616,25162254401
+2,vamsi,2nd line,522616,2414512267
+3,Sai,ktr 24-11,53422,95440524
+4,Vijay,2nd street,765,567
+5,kalph,55th daaffine,765,567
+6,mike,55th daaffine,234567,567
+7,Tom,WB,72934,7258993

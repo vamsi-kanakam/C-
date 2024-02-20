@@ -1,0 +1,10 @@
+D:\ACADS\SEM-1\C#\Programs\JaguarPizza\JaguarPizza\bin\Debug\JaguarPizza.exe.config
+D:\ACADS\SEM-1\C#\Programs\JaguarPizza\JaguarPizza\bin\Debug\JaguarPizza.exe
+D:\ACADS\SEM-1\C#\Programs\JaguarPizza\JaguarPizza\bin\Debug\JaguarPizza.pdb
+D:\ACADS\SEM-1\C#\Programs\JaguarPizza\JaguarPizza\obj\Debug\JaguarPizza.csproj.AssemblyReference.cache
+D:\ACADS\SEM-1\C#\Programs\JaguarPizza\JaguarPizza\obj\Debug\JaguarPizza.JaguarPizza.resources
+D:\ACADS\SEM-1\C#\Programs\JaguarPizza\JaguarPizza\obj\Debug\JaguarPizza.Properties.Resources.resources
+D:\ACADS\SEM-1\C#\Programs\JaguarPizza\JaguarPizza\obj\Debug\JaguarPizza.csproj.GenerateResource.cache
+D:\ACADS\SEM-1\C#\Programs\JaguarPizza\JaguarPizza\obj\Debug\JaguarPizza.csproj.CoreCompileInputs.cache
+D:\ACADS\SEM-1\C#\Programs\JaguarPizza\JaguarPizza\obj\Debug\JaguarPizza.exe
+D:\ACADS\SEM-1\C#\Programs\JaguarPizza\JaguarPizza\obj\Debug\JaguarPizza.pdb
