@@ -1,0 +1,10 @@
+D:\ACADS\SEM-1\C#\Programs\Week10Collections_Wed\Week10Collections_Wed\bin\Debug\Week10Collections_Wed.exe.config
+D:\ACADS\SEM-1\C#\Programs\Week10Collections_Wed\Week10Collections_Wed\bin\Debug\Week10Collections_Wed.exe
+D:\ACADS\SEM-1\C#\Programs\Week10Collections_Wed\Week10Collections_Wed\bin\Debug\Week10Collections_Wed.pdb
+D:\ACADS\SEM-1\C#\Programs\Week10Collections_Wed\Week10Collections_Wed\obj\Debug\Week10Collections_Wed.csproj.AssemblyReference.cache
+D:\ACADS\SEM-1\C#\Programs\Week10Collections_Wed\Week10Collections_Wed\obj\Debug\Week10Collections_Wed.frmVendorList.resources
+D:\ACADS\SEM-1\C#\Programs\Week10Collections_Wed\Week10Collections_Wed\obj\Debug\Week10Collections_Wed.Properties.Resources.resources
+D:\ACADS\SEM-1\C#\Programs\Week10Collections_Wed\Week10Collections_Wed\obj\Debug\Week10Collections_Wed.csproj.GenerateResource.cache
+D:\ACADS\SEM-1\C#\Programs\Week10Collections_Wed\Week10Collections_Wed\obj\Debug\Week10Collections_Wed.csproj.CoreCompileInputs.cache
+D:\ACADS\SEM-1\C#\Programs\Week10Collections_Wed\Week10Collections_Wed\obj\Debug\Week10Collections_Wed.exe
+D:\ACADS\SEM-1\C#\Programs\Week10Collections_Wed\Week10Collections_Wed\obj\Debug\Week10Collections_Wed.pdb

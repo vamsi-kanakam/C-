@@ -1,0 +1,10 @@
+D:\ACADS\SEM-1\C#\Programs\Week10Homework\Week10Homework\bin\Debug\Week10Homework.exe.config
+D:\ACADS\SEM-1\C#\Programs\Week10Homework\Week10Homework\bin\Debug\Week10Homework.exe
+D:\ACADS\SEM-1\C#\Programs\Week10Homework\Week10Homework\bin\Debug\Week10Homework.pdb
+D:\ACADS\SEM-1\C#\Programs\Week10Homework\Week10Homework\obj\Debug\Week10Homework.csproj.AssemblyReference.cache
+D:\ACADS\SEM-1\C#\Programs\Week10Homework\Week10Homework\obj\Debug\Week10Homework.frmBooks.resources
+D:\ACADS\SEM-1\C#\Programs\Week10Homework\Week10Homework\obj\Debug\Week10Homework.Properties.Resources.resources
+D:\ACADS\SEM-1\C#\Programs\Week10Homework\Week10Homework\obj\Debug\Week10Homework.csproj.GenerateResource.cache
+D:\ACADS\SEM-1\C#\Programs\Week10Homework\Week10Homework\obj\Debug\Week10Homework.csproj.CoreCompileInputs.cache
+D:\ACADS\SEM-1\C#\Programs\Week10Homework\Week10Homework\obj\Debug\Week10Homework.exe
+D:\ACADS\SEM-1\C#\Programs\Week10Homework\Week10Homework\obj\Debug\Week10Homework.pdb

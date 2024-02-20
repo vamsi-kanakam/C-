@@ -1,0 +1,10 @@
+1,FCC,445 12th Street SW,Washington,DC,20554,888-225-5322
+2,U.S.Copyright Office,101 Independence Ave, Washington,DC,20559,202-707-3000 
+3,CDC,1600 Clifton Road,Atlanta,GA,30333,800-232-4636
+4,White House, 1600 Pennsylvania Avenue NW,Washington,DC,20500,202-456-1111
+5,Labor Statistics,Postal Sq Bldg 2 Mass Ave,Washington,DC,20212,800-877-8339
+6,AMTRAK,60 Massachusetts Avenue NE,Washington,DC,20002,800-523-6590
+7,U.S. Air Force,1690 Air Force Pentagon,Washington,DC,20330-1670,800-423-8723
+8,National Guard,111 South George Mason Dr,Arlington,VA,22204,800-864-6264
+9,Office of Govt Ethics,1201 New York Ave,Washington,DC,20005,202-482-9300
+10,IRS,1111 Constitution Ave.NW,Washington DC,20224,800-829-1040
