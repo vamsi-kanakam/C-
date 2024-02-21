@@ -1,0 +1,11 @@
+D:\ACADS\SEM-1\C#\Programs\Week13HomeWork\Week13HomeWork\bin\Debug\Week13HomeWork.exe.config
+D:\ACADS\SEM-1\C#\Programs\Week13HomeWork\Week13HomeWork\bin\Debug\Week13HomeWork.exe
+D:\ACADS\SEM-1\C#\Programs\Week13HomeWork\Week13HomeWork\bin\Debug\Week13HomeWork.pdb
+D:\ACADS\SEM-1\C#\Programs\Week13HomeWork\Week13HomeWork\obj\Debug\Week13HomeWork.csproj.AssemblyReference.cache
+D:\ACADS\SEM-1\C#\Programs\Week13HomeWork\Week13HomeWork\obj\Debug\Week13HomeWork.frmOuput.resources
+D:\ACADS\SEM-1\C#\Programs\Week13HomeWork\Week13HomeWork\obj\Debug\Week13HomeWork.frmBooks.resources
+D:\ACADS\SEM-1\C#\Programs\Week13HomeWork\Week13HomeWork\obj\Debug\Week13HomeWork.Properties.Resources.resources
+D:\ACADS\SEM-1\C#\Programs\Week13HomeWork\Week13HomeWork\obj\Debug\Week13HomeWork.csproj.GenerateResource.cache
+D:\ACADS\SEM-1\C#\Programs\Week13HomeWork\Week13HomeWork\obj\Debug\Week13HomeWork.csproj.CoreCompileInputs.cache
+D:\ACADS\SEM-1\C#\Programs\Week13HomeWork\Week13HomeWork\obj\Debug\Week13HomeWork.exe
+D:\ACADS\SEM-1\C#\Programs\Week13HomeWork\Week13HomeWork\obj\Debug\Week13HomeWork.pdb

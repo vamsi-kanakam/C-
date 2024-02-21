@@ -1,0 +1,8 @@
+Ice Cream;3.50
+Custard;3.75
+Yogurt;3.25
+Sorbet;4.00
+Soft Serve;3.00
+Gelato;4.25
+Italian Ice;3.75
+Sherbert;3.25

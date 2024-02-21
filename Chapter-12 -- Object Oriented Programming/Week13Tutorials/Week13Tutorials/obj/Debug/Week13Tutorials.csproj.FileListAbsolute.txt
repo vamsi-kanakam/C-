@@ -1,0 +1,10 @@
+D:\ACADS\SEM-1\C#\Programs\Week13Tutorials\Week13Tutorials\obj\Debug\Week13Tutorials.csproj.AssemblyReference.cache
+D:\ACADS\SEM-1\C#\Programs\Week13Tutorials\Week13Tutorials\obj\Debug\Week13Tutorials.EmployeeForm.resources
+D:\ACADS\SEM-1\C#\Programs\Week13Tutorials\Week13Tutorials\obj\Debug\Week13Tutorials.Properties.Resources.resources
+D:\ACADS\SEM-1\C#\Programs\Week13Tutorials\Week13Tutorials\obj\Debug\Week13Tutorials.csproj.GenerateResource.cache
+D:\ACADS\SEM-1\C#\Programs\Week13Tutorials\Week13Tutorials\obj\Debug\Week13Tutorials.csproj.CoreCompileInputs.cache
+D:\ACADS\SEM-1\C#\Programs\Week13Tutorials\Week13Tutorials\bin\Debug\Week13Tutorials.exe.config
+D:\ACADS\SEM-1\C#\Programs\Week13Tutorials\Week13Tutorials\bin\Debug\Week13Tutorials.exe
+D:\ACADS\SEM-1\C#\Programs\Week13Tutorials\Week13Tutorials\bin\Debug\Week13Tutorials.pdb
+D:\ACADS\SEM-1\C#\Programs\Week13Tutorials\Week13Tutorials\obj\Debug\Week13Tutorials.exe
+D:\ACADS\SEM-1\C#\Programs\Week13Tutorials\Week13Tutorials\obj\Debug\Week13Tutorials.pdb
