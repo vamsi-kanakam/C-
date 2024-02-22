@@ -7,4 +7,6 @@ This book contains tutorials that give you hands-on experience which most people
 
 This repo contains C# files in the order I learned.
 
+The C# files I Created are all Windows Desktop Applications (Windows Forms GUI).
+
 I used ***Visual Studio*** for creating and designing these programs.
