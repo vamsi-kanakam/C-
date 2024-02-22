@@ -1,0 +1,13 @@
+D:\ACADS\SEM-1\C#\Programs\JaguarPizza2\JaguarPizza2\obj\Debug\JaguarPizza2.csproj.AssemblyReference.cache
+D:\ACADS\SEM-1\C#\Programs\JaguarPizza2\JaguarPizza2\obj\Debug\JaguarPizza2.frmAddNewCustomer.resources
+D:\ACADS\SEM-1\C#\Programs\JaguarPizza2\JaguarPizza2\obj\Debug\JaguarPizza2.frmProcessAnOrder.resources
+D:\ACADS\SEM-1\C#\Programs\JaguarPizza2\JaguarPizza2\obj\Debug\JaguarPizza2.frmReceipt.resources
+D:\ACADS\SEM-1\C#\Programs\JaguarPizza2\JaguarPizza2\obj\Debug\JaguarPizza2.MainForm.resources
+D:\ACADS\SEM-1\C#\Programs\JaguarPizza2\JaguarPizza2\obj\Debug\JaguarPizza2.Properties.Resources.resources
+D:\ACADS\SEM-1\C#\Programs\JaguarPizza2\JaguarPizza2\obj\Debug\JaguarPizza2.csproj.GenerateResource.cache
+D:\ACADS\SEM-1\C#\Programs\JaguarPizza2\JaguarPizza2\obj\Debug\JaguarPizza2.csproj.CoreCompileInputs.cache
+D:\ACADS\SEM-1\C#\Programs\JaguarPizza2\JaguarPizza2\bin\Debug\JaguarPizza2.exe.config
+D:\ACADS\SEM-1\C#\Programs\JaguarPizza2\JaguarPizza2\bin\Debug\JaguarPizza2.exe
+D:\ACADS\SEM-1\C#\Programs\JaguarPizza2\JaguarPizza2\bin\Debug\JaguarPizza2.pdb
+D:\ACADS\SEM-1\C#\Programs\JaguarPizza2\JaguarPizza2\obj\Debug\JaguarPizza2.exe
+D:\ACADS\SEM-1\C#\Programs\JaguarPizza2\JaguarPizza2\obj\Debug\JaguarPizza2.pdb
